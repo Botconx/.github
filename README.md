@@ -1,0 +1,2 @@
+# .github
+Botconx public releases
